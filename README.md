@@ -1,6 +1,8 @@
 
-# assistencia
-Sistema para ordem de serviço
+# Assistência
+Sistema para ordem de serviço desenvolvido em Java e Banco de Dados MYSQL.
+
+## BLABLAfffff
 
 # @Authors 
 Alessandro 
