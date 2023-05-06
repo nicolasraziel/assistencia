@@ -21,8 +21,5 @@ Sistema para ordem de serviço desenvolvido em Java e Banco de Dados MYSQL.
 ![Login](https://user-images.githubusercontent.com/87093460/236586026-50f7d46c-9109-420b-8899-18c782c8e7f2.png)
 
 # Tela de Orçamento![Orçamento]
-(https://user-images.githubusercontent.com/87093460/236589129-019e752a-cfae-40ed-8681-a93773c2cc30.png)
 
-
-
-
+![Orçamento](https://user-images.githubusercontent.com/87093460/236589160-88f949e9-08be-4c77-a68b-cf39671a75c5.png)
