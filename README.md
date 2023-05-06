@@ -7,7 +7,7 @@ Sistema para ordem de serviço desenvolvido em Java e Banco de Dados MYSQL.
 - Cadastro de O.S.
 - Gerenciamento do Serviço.
 - Impressão do Orçamento.
-- Controle da O.S através de relatórios.
+- Controle da O.S e pagamentos através de relatórios.
 - 
 
 
