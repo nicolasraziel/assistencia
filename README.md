@@ -2,11 +2,13 @@
 # Assistência
 Sistema para ordem de serviço desenvolvido em Java e Banco de Dados MYSQL.
 
-- Usuários com permissões distintas.
+- Cadastro de usuários com permissões distintas.
 - Cadrastro de Clientes.
 - Cadastro de O.S.
 - Gerenciamento do Serviço.
 - Impressão do Orçamento.
+- Controle da O.S através de relatórios.
+- 
 
 
 # @Authors 
