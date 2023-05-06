@@ -12,11 +12,11 @@ Sistema para ordem de serviço desenvolvido em Java e Banco de Dados MYSQL.
 
 
 # @Authors 
-Alessandro 
+- Alessandro 
 
-Pedro
+- Pedro
 
-Nicolas
+- Nicolas
 
 # Tela de login
 
